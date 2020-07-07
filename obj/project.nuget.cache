@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ir88gGVDL4siJ70G/CTapQZ85hZ4sckR2i60wMw7PHKMDkNBDD4x3CQh7A3A2DsOFAl6dNQT+hGI7CtwknY+CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ronal\\source\\repos\\processingtask\\processingtask\\processingtask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

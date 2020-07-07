@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "processingtask": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OUTPUT": "processed.txt",
+        "DATA": "C:\\Users\\ronal\\source\\repos\\processingtask\\processingtask\\data.txt"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    },
+    "Azure Dev Spaces": {
+      "commandName": "AzureDevSpaces"
+    }
+  }
+}

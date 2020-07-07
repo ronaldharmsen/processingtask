@@ -1,0 +1,36 @@
+﻿apiVersion: batch/v1
+kind: Job
+metadata:
+  name: processingjob
+spec:
+  template:
+    spec:
+      containers:
+      - name: processingtask
+        image: myregistrydemo1234.azurecr.io/processingtask:latest
+        resources:
+          requests:
+            memory: "32Mi"
+            cpu: "125m"
+          limits:
+            memory: "64Mi"
+            cpu: "250m"
+        env:
+          - name: DATA
+            value: /data/in/input.txt
+          - name: OUTPUT
+            value: /data/out/results.txt 
+        volumeMounts:
+          - name: azstorage
+            mountPath: /data/in
+          - name: azstorage2
+            mounthPath: /data/out
+      volumes:
+        - name: azstorage
+          persistentVolumeClaim: 
+            claimName: azstorage-claim
+        
+      restartPolicy: Never
+  backoffLimit: 1
+  # activeDeadlineSeconds: 100
+  ttlSecondsAfterFinished: 30

@@ -1,0 +1,13 @@
+C:\Users\ronal\source\repos\processingtask\processingtask\bin\Debug\netcoreapp3.1\processingtask.exe
+C:\Users\ronal\source\repos\processingtask\processingtask\bin\Debug\netcoreapp3.1\processingtask.deps.json
+C:\Users\ronal\source\repos\processingtask\processingtask\bin\Debug\netcoreapp3.1\processingtask.runtimeconfig.json
+C:\Users\ronal\source\repos\processingtask\processingtask\bin\Debug\netcoreapp3.1\processingtask.runtimeconfig.dev.json
+C:\Users\ronal\source\repos\processingtask\processingtask\bin\Debug\netcoreapp3.1\processingtask.dll
+C:\Users\ronal\source\repos\processingtask\processingtask\bin\Debug\netcoreapp3.1\processingtask.pdb
+C:\Users\ronal\source\repos\processingtask\processingtask\obj\Debug\netcoreapp3.1\processingtask.csprojAssemblyReference.cache
+C:\Users\ronal\source\repos\processingtask\processingtask\obj\Debug\netcoreapp3.1\processingtask.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\processingtask\processingtask\obj\Debug\netcoreapp3.1\processingtask.AssemblyInfo.cs
+C:\Users\ronal\source\repos\processingtask\processingtask\obj\Debug\netcoreapp3.1\processingtask.dll
+C:\Users\ronal\source\repos\processingtask\processingtask\obj\Debug\netcoreapp3.1\processingtask.pdb
+C:\Users\ronal\source\repos\processingtask\processingtask\obj\Debug\netcoreapp3.1\processingtask.genruntimeconfig.cache
+C:\Users\ronal\source\repos\processingtask\processingtask\obj\Debug\netcoreapp3.1\processingtask.csproj.CoreCompileInputs.cache

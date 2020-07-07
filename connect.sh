@@ -1,0 +1,1 @@
+kubectl create secret docker-registry azureframeworksecret --docker-server myregistrydemo1234.azurecr.io --docker-email ronald.h@framework.co.uk --docker-username=myregistrydemo1234 --docker-password LhyqHB9JHQm=g9A+uirxYJyy8DJjdkD+
